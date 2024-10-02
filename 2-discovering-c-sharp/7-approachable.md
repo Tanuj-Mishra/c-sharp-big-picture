@@ -1,0 +1,6 @@
+- C# developers tried to make them approachable to both the programmers of C++ and Java.
+- It was an extension of C++, so it carried tried to maintain the legacy by
+	- using ; for end of statement.
+	- Curly braces for functions and classes.
+	- object oriented features -> namespaces classes etc.
+	- zero based indexing in arrays.
