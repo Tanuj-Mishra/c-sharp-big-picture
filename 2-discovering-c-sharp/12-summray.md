@@ -1,5 +1,5 @@
 ## C# is
-- Approachable
+- it is approachable, check here, [[7-approachable]], 
 - Strongly Typed
 - Resilient to change/runtime type safety
 - Object-oriented, with functional features

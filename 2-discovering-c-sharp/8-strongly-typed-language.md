@@ -8,6 +8,9 @@
 - Inference expression -> In case, if we use var instead of int for assignment of a number, then, at time of compilation, c# will automatically substitute it to integer.
 
 
+## Pending
+
+^fe802a
 
 #pending
 	- Re watch the lecture, from 1:00.
